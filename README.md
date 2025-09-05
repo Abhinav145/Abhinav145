@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Bhardwaj</h1>
 <h3 align="center">🚀 Aspiring AI Engineer | Machine Learning & Data Science Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinav145&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav145" />
-</p>
-
 ---
 
 ### 🌟 About Me  
