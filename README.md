@@ -27,11 +27,14 @@
 ---
 
 ### 🛠️ Languages and Tools  
+### 🛠️ Languages and Tools  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/numfocus/numpy-logo.svg" alt="NumPy" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/3/3f/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
