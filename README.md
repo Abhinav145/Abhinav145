@@ -77,7 +77,7 @@
 ---
 
 ### 🚀 Featured Projects  
-- 📊 [Hours vs Scores – Simple Linear Regression](https://github.com/Abhinav145/Hours--vs-Score)  
+- 📊 [Hours vs Scores – Simple Linear Regression](https://github.com/Abhinav145/Hours-vs-Score)  
 - 🧾 [Handling Missing Data](https://github.com/Abhinav145/handling_missing_data)  
 - 🚢 [Titanic Survival Prediction](https://titanic-survived-pridict-jiayyi69uhjuzhfe65azfv.streamlit.app/)  
 
