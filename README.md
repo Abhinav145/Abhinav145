@@ -5,7 +5,7 @@
 
 ### 🌟 About Me  
 - 🎓 **B.Tech CSE (AI specialization)** 
-- 🔭 Currently working on: [Titanic Survival Prediction](https://titanic-survived-pridict-jiayyi69uhjuzhfe65azfv.streamlit.app/)  
+- 🔭 Currently working on: Open source 
 - 🌱 Learning: **Machine Learning | Data Science | AI**  
 - 🤝 Looking to collaborate on **AI/ML projects & Kaggle competitions**  
 - 📫 Reach me at: **ab1236127@gmail.com**  
