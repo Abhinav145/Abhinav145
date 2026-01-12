@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhinav Bhardwaj</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | Machine Learning & Data Science Enthusiast</h3>
+<h3 align="center">🎓 B.Tech CSE (AI) | Applied Machine Learning </h3>
 
 ---
 
 ### 🌟 About Me  
-- 🎓 **B.Tech CSE (AI specialization)** 
-- 🔭 Currently working on: Open source 
-- 🌱 Learning: **Machine Learning | Data Science | AI**  
-- 🤝 Looking to collaborate on **AI/ML projects & Kaggle competitions**  
-- 📫 Reach me at: **ab1236127@gmail.com**  
-- ⚡ Fun fact: *I love Gaming 🎮 and exploring new tech*  
+🎓 B.Tech CSE (AI) | Applied Machine Learning  
+🔬 Open-source contributor (ML & data pipelines)  
+🌱 Currently contributing to OpenMined  
+⚙️ Python | ML Pipelines | Data Processing | Git  
+
 
 ---
 
