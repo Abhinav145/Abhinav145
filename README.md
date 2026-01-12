@@ -4,7 +4,6 @@
 ---
 
 ### 🌟 About Me  
-🎓 B.Tech CSE (AI) | Applied Machine Learning  
 🔬 Open-source contributor (ML & data pipelines)  
 🌱 Currently contributing to OpenMined  
 ⚙️ Python | ML Pipelines | Data Processing | Git  
